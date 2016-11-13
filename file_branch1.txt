@@ -1,0 +1,3 @@
+line 1 in file_branch1.txt
+line 2 in file_branch1.txt
+edit on branch1
