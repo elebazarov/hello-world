@@ -1,2 +1,6 @@
 line 1 in file_branch2.txt
 line 2 in file_branch2.txt
+Changes on gtihub 2
+Changes on gtihub 3
+line 2 in file_branch2.txt23.11 laptop
+23.11 laptop
